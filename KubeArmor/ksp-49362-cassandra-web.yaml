@@ -19,7 +19,6 @@ spec:
       - path: /etc/passwd
       - path: /etc/shadow
       - path: /etc/Ashutosh
-    action: Block
   process:
     severity: 3
     matchPatterns:
